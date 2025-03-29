@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Junzhi, A high school student comes from Chengdu.
+
+### Start from study
+
+Honestly, I feel that I'm not talented in computer science, -- but I just like it --. So subjects like math, Chienese, physics etc. are my major.
+
+Everything about tech can make me exciting, especially Apple.
+
+Coming soon!!!
 
 <!--
 **junzhij/junzhij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
